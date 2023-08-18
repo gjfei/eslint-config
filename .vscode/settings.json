@@ -1,0 +1,15 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.formatOnSaveMode": "modifications",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.probe": [
+    "javascript",
+  ],
+  "eslint.validate": [
+    "javascript",
+  ],
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+}
